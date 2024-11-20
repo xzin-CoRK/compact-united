@@ -5,7 +5,7 @@
 }
 
 .special-event-alert > .alert__content {
-    width: 50%;
+    width: 75%;
     display:flex;
     justify-content: space-around;
 }
